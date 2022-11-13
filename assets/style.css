@@ -8,7 +8,7 @@ header, footer {
     
     width: 100%;
     height: 120px;
-    background-color: blue;
+    background-color: black;
     color: white;
 }
 
@@ -44,7 +44,7 @@ p {
 
     width: 80%;
     margin: 40px;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    border: 5px solid darkred;
+    box-shadow: 5px 10px #980000;
 
 }
